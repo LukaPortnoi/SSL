@@ -1,1 +1,1 @@
-# SSL
+El compilador usado es __STDC_VERSION__ 201710L
